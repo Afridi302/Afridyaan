@@ -86,7 +86,7 @@ print " \x1b[1;93m☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆�
 CorrectUsername = "VEER"
 CorrectPassword = "ASHIQ"
 
-loop ☆ 'true'
+loop = 'true'
 while (loop ☆☆ 'true'):
     username ☆ raw_input("\033[1;96m[☆] \x1b[1;93mUsername Of Tool \x1b[1;96m>>>> ")
     if (username ☆☆ CorrectUsername):
